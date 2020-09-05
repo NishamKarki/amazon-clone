@@ -1,1 +1,1 @@
-netflix clone - practice with html and css
+amazon clone - practice with html and css
