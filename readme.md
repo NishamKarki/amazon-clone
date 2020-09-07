@@ -1,1 +1,1 @@
-amazon clone - practice with html and css
+Amazon cloning for css practice; only html and css.
